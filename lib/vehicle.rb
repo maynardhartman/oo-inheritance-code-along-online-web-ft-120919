@@ -1,5 +1,5 @@
 class Vehicle
-  attr_accessor :wheel_siZe, :wheel_number
+  attr_accessor :wheel_size, :wheel_number
   
   @@all = []
   
